@@ -1,3 +1,6 @@
+You can also check one of my projects on [![Nostos Organization]]([https://www.linkedin.com/in/agustin-caraballo-72b3a0175/](https://github.com/nostos-globe)) 
+
+
 # 💫 About Me:
 I'm a  full stack developer with a background in systems administration and a passion for building efficient, scalable web and mobile applications. I enjoy working across the stack—from crafting responsive frontends with Angular or React, to building robust backend services with Java, Golang, or Node.js.<br><br>My experience includes contributing to real-world projects at Sunscreen Tech, where I developed APIs, collaborated on UI features, and supported infrastructure tasks on AWS. I've also built cross-platform mobile apps using Flutter and React Native as part of personal and educational projects.<br><br>Before diving into development, I worked in technical support roles in high-volume environments, which helped me build strong problem-solving, communication, and teamwork skills.<br><br>I'm always learning, currently deepening my knowledge in DevOps and backend architecture, and I'm excited to grow as a developer in collaborative, mission-driven teams.<br><br>
 
