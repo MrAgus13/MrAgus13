@@ -1,4 +1,4 @@
-You can also check one of my projects on [![Nostos Organization]]([https://www.linkedin.com/in/agustin-caraballo-72b3a0175/](https://github.com/nostos-globe)) 
+You can also check one of my projects on [![Nostos Organization]([https://www.linkedin.com/in/agustin-caraballo-72b3a0175/](https://github.com/nostos-globe))]
 
 
 # 💫 About Me:
