@@ -1,4 +1,4 @@
-You can also check one of my projects on [![Nostos Organization][https://github.com/nostos-globe]]
+You can also check one of my projects on [![Nostos Organization](https://github.com/nostos-globe)]
 
 
 # 💫 About Me:
